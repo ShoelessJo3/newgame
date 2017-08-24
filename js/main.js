@@ -37,7 +37,7 @@ function create() {
 
     //  Here we add a new animation called 'run'
     //  We haven't specified any frames because it's using every frame in the texture atlas
-    bot.animations.add('run',[0,3],15,true);
+    bot.animations.add('run',[0,1,2,3],10,true);
 
 
     //  And this starts the animation playing by using its key ("run")

@@ -8,7 +8,7 @@ function preload() {
     //  string by which we'll identify the image later in our code.
 
     //  The second parameter is the URL of the image (relative)
-    game.load.image('einstein', 'assets/pics/ra_einstein.png');
+    game.load.image('einstein', 'assets/pics/frog_on_uni.jpg');
 
 }
 
